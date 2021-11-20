@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Acasa</title>
+</head>
+<frameset cols="22%,*" frameborder="0">
+<frame src="Pagini/meniu.html">
+<frameset rows="26%,*" frameborder="0">
+<frame src="Pagini/sus.html">
+<frame src="Pagini/index.html">
+</frameset>
+</frameset>
+<body>
+</body>
+</html>

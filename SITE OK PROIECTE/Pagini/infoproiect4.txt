@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>INFOPROIECT4</title>
+</head>
+<body>
+<center><img src="../Poze/p4.jpg"></center><br><br>
+<img src="../Poze/p44.jpg" hspace="25" vspace="20" align="left"><br><br>
+<font color="#0099FF" align="left">
+<h4>
+DESPRE PROIECT 4
+</h4>
+</font>
+</body>
+</html>

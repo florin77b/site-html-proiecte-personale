@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>PROIECT2</title>
+</head>
+<frameset cols="22%,*" frameborder="0">
+	<frame src="meniu.html">
+	<frameset rows="26%,*">
+		<frame src="sus.html">
+		<frame src="infoproiect2.html">
+	</frameset>
+</frameset>
+<body>
+</body>
+</html>
